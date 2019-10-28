@@ -1,2 +1,6 @@
 # hello_world
-I don't know why you let do this,let me go
+
+name :Zihao lee
+born :data 2 February,1999
+home: xinyang,Henan,CHINA
+School:Zhengzhou university
