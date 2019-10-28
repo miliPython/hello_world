@@ -1,6 +1,6 @@
 # hello_world
 
-name :Zihao lee
-born :data 2 February,1999
-home: xinyang,Henan,CHINA
-School:Zhengzhou university
+
+Hi,guys
+I'm Zihao Lee,i'm very glad to join in github.
+Wish making progress witn my efforts.
